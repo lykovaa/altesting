@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>948c2e8fdb14401025c85a35dc9619ab</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_group">
+    <sys_user_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cost_center/>
+        <default_assignee/>
+        <description/>
+        <email/>
+        <exclude_manager>false</exclude_manager>
+        <include_members>false</include_members>
+        <manager display_value="Aileen Mottern (Product Owner)">71826bf03710200044e0bfc8bcbe5d3b</manager>
+        <name>Career App Development Team</name>
+        <parent/>
+        <points>15</points>
+        <roles/>
+        <source/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-09 17:29:51</sys_created_on>
+        <sys_id>948c2e8fdb14401025c85a35dc9619ab</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>aileen.mottern</sys_updated_by>
+        <sys_updated_on>2019-10-10 00:21:42</sys_updated_on>
+        <type>1bff3b1493030200ea933007f67ffb6d</type>
+    </sys_user_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-28 09:58:38</sys_created_on>
+        <sys_id>b44a6c5c875251102eda33750cbb35a9</sys_id>
+        <sys_name>Career App Development Team</sys_name>
+        <sys_package display_value="AL Testing" source="x_snc_al_testing">4fd9605c875251102eda33750cbb3575</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AL Testing">4fd9605c875251102eda33750cbb3575</sys_scope>
+        <sys_update_name>sys_metadata_link_b44a6c5c875251102eda33750cbb35a9</sys_update_name>
+        <tablename>sys_user_group</tablename>
+    </sys_metadata_link>
+</record_update>
