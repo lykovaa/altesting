@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="d6b8bc32879ed5102eda33750cbb35e6" extends="task" label="Meeting" max_length="40" name="x_snc_al_testing_meeting" type="collection"/>
+    <element db_object_id="d6b8bc32879ed5102eda33750cbb35e6" extends="task" label="Meeting" max_length="40" name="x_snc_al_testing_meeting" type="collection">
+        <element label="Start time" max_length="40" name="start_time" type="glide_date_time"/>
+    </element>
 </database>
