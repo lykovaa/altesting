@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">892a9b32875619102eda33750cbb354e</sp_column>
+        <sp_widget display_value="Download button">8fb8cbf2871619102eda33750cbb35d2</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-06 17:17:39</sys_created_on>
+        <sys_id>467bd372875619102eda33750cbb35db</sys_id>
+        <sys_name>Download 2</sys_name>
+        <sys_package display_value="AL Testing" source="x_snc_al_testing">4fd9605c875251102eda33750cbb3575</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AL Testing">4fd9605c875251102eda33750cbb3575</sys_scope>
+        <sys_update_name>sp_instance_467bd372875619102eda33750cbb35db</sys_update_name>
+        <title>Download 2</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Download 2",
+		"displayValue": "Download 2"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=467bd372875619102eda33750cbb35db"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ESG_20px_Digital-Readiness-RVRS.png</file_name>
+        <hash>83b5e9fa32536b968347a1043d9c1fd2072d06022f5d59c2bd6f439fc354d436</hash>
+        <image_height>20</image_height>
+        <image_width>20</image_width>
+        <size_bytes>302</size_bytes>
+        <size_compressed>323</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-06 17:18:16</sys_created_on>
+        <sys_id>b29bdb72875619102eda33750cbb35d7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-06 17:18:16</sys_updated_on>
+        <table_name>sp_instance</table_name>
+        <table_sys_id>467bd372875619102eda33750cbb35db</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="ESG_20px_Digital-Readiness-RVRS.png" sys_id="b29bdb72875619102eda33750cbb35d7">b29bdb72875619102eda33750cbb35d7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-06 17:18:16</sys_created_on>
+        <sys_id>f29bdb72875619102eda33750cbb35d7</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSIiDMwQYkeztleYEUZ4FHZDEDA7cQCDNeulv3Byj4wNPFMcSi9+yUu4JNBgIt4e3lQU5eC1S8PNiTWI/xaRwM2sD8lkErov2jUqOnQqDcnZnVJ3P2vXn63kGo+tUObV2GHAaDzbMkE3MiT01445GVn7N6yxnDc8/VQxjyGF71tIQ9WxFxemeQd73eB74He9I8GOMYeZiyGedcO+PKtGHaJQa96GciCZonT7Hkb0iVbWy7slzFZJKG69wf6pXi1z9VRx4v3OAVYPZ4qk5zD8+O+8smnwhNmX9Hjm/haZvZ+u8/bD60SOTkvdsd7ipLX18Q2fSo+KmIc6dT1fLpIm/52R+ZGF2Z//8GQ9zDup6yv8ECTUC/Mni6+rmsc0poAgD0usWXLgEAAA==</data>
+        <length>420</length>
+        <position>1</position>
+        <sys_attachment display_value="ESG_20px_Digital-Readiness-RVRS.png" sys_id="b29bdb72875619102eda33750cbb35d7">b29bdb72875619102eda33750cbb35d7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-06 17:18:16</sys_created_on>
+        <sys_id>769bdb72875619102eda33750cbb35d7</sys_id>
+    </sys_attachment_doc>
+</record_update>
